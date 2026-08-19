@@ -15,7 +15,7 @@
 
 I'm a senior engineer specializing in **React** and **TypeScript**, currently building the customer-facing commerce platform (web ordering, catering, kiosk) for a 1,000+ store retail chain at **Wawa**. Full-stack across Node/Express, GraphQL, and MongoDB, with a deep test-automation practice (Playwright, Cucumber/BDD, Jest) and prior experience leading a 20+ engineer UI team at Chase.
 
-Outside my day job I ship independent products end-to-end — from UI to backend to deploy — under **ADS Graphics Firm**.
+Outside my day job I ship independent products end-to-end — from UI to backend to deploy — under **S24DeFi**.
 
 <br />
 
