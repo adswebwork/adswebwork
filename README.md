@@ -13,7 +13,7 @@
   <a href="https://skillsprouts.s24defi.com" target="_blank"><img alt="SkillSprouts" src="https://img.shields.io/badge/-SkillSprouts-0d1117?style=flat-square&logo=react&logoColor=61DAFB" /></a>
 </p>
 
-I'm a senior engineer specializing in **React** and **TypeScript**, currently building the customer-facing commerce platform (web ordering, catering, kiosk) for a 1,000+ store retail chain at **Wawa**. Full-stack across Node/Express, GraphQL, and MongoDB, with a deep test-automation practice (Playwright, Cucumber/BDD, Jest) and prior experience leading a 20+ engineer UI team at Chase.
+I'm a senior engineer specializing in **React** and **TypeScript**, I've helped in building the customer-facing commerce platform (web ordering, catering, kiosk) for a 1,000+ store retail chain at **Wawa**. Full-stack across Node/Express, GraphQL, and MongoDB, with a deep test-automation practice (Playwright, Cucumber/BDD, Jest) and prior experience leading a 20+ engineer UI team at Chase.
 
 Outside my day job I ship independent products end-to-end — from UI to backend to deploy — under **S24DeFi**.
 
