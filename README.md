@@ -102,7 +102,7 @@ Outside my day job I ship independent products end-to-end — from UI to backend
 
 ### Experience Snapshot
 
-- **Senior Software Engineer**, Wawa, Inc. — *2023–Present*
+- **Senior Software Engineer**, Wawa, Inc. — *2023–2026*
   Customer-facing commerce (wawa.com, order.wawa.com, catering.wawa.com); drove BDD coverage to 100% across catering & ordering, surfacing 15 latent defects unit tests missed.
 - **Senior Software Consultant**, Cox Communications — *2020–2023*
   Shipped production features from InVision designs into AEM/Adobe Target; cut lead-form load time 15%.
