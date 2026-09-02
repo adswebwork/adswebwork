@@ -78,15 +78,6 @@ Outside my day job I ship independent products end-to-end — from UI to backend
 
 <br />
 
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=adswebwork&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" alt="Andre's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adswebwork&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top languages" />
-</p>
-
-<br />
-
 ### Featured Projects
 
 | Project | What it is | Stack |
