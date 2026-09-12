@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/andredspencer"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="mailto:andredspencer@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+  <a href="mailto:spence@s24defi.com"><img alt="Email" src="https://img.shields.io/badge/-Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
   <a href="https://stewards.digital"><img alt="Stewards.Digital" src="https://img.shields.io/badge/-stewards.digital-0d1117?style=flat-square&logo=vercel&logoColor=FFFFFF" /></a>
   <a href="https://skillsprouts.s24defi.com"><img alt="SkillSprouts" src="https://img.shields.io/badge/-SkillSprouts-0d1117?style=flat-square&logo=react&logoColor=61DAFB" /></a>
 </p>
