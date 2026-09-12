@@ -17,7 +17,7 @@
 
 I build the web applications people actually transact on, and I write the tests behind them.
 
-For three years that meant the customer-facing commerce platform for a 1,000+ store retail chain at **Wawa**: web ordering, catering, loyalty, and the in-store kiosk. I owned React/TypeScript delivery across those surfaces, contributed to the shared design system, and drove BDD coverage to 100% of features across two commerce applications, which surfaced 15 latent defects that unit tests alone had missed. Before that I led a 20-person distributed UI team on **Chase Ultimate Rewards** and built an internal debugging tool that raised the team's development efficiency 60 to 80%.
+For three years, that meant the customer-facing commerce platform for a 1,000+ store retail chain at **Wawa**: web ordering, catering, loyalty, and the in-store kiosk. I owned React/TypeScript delivery across those surfaces, contributed to the shared design system, and drove BDD coverage to 100% across two commerce applications, surfacing 15 latent defects that unit tests alone had missed. Before that, I led a 20-person distributed UI team on **Chase Ultimate Rewards** and built an internal debugging tool that raised the team's development efficiency by 60 to 80%.
 
 Today I run **S24DeFi Labs**, an independent product studio, and use Claude Code and GitHub Copilot as daily production tooling with an AI-assisted PR review pipeline in front of every merge. Two of the products are live and linked above; two native iOS apps are on my own phone.
 
@@ -58,11 +58,11 @@ What you'll find here: small, finished things with CI, tests, and a README that 
 
 The automated trading platform is where these habits were tested hardest, because a bug there costs real money. The same rules apply to everything I ship.
 
-- **Every door is locked.** Every API and live connection requires a valid token, only approved websites are allowed to call in, and sessions can be checked individually when needed.
+- **Every door is locked.** Every API and live connection requires a valid token, only approved websites can call in, and sessions can be checked individually when needed.
 - **Secrets never reach the client.** Environment-driven configuration, `.env` files gitignored from the first commit, and a hard rule that no credential is ever committed to client source. History gets scanned before a repo goes public.
-- **Safe by default.** Real-money trading, production deploys, and anything destructive are off until someone deliberately turns them on. There is an emergency stop that can be triggered by a file, a setting, or the system itself when it detects trouble.
+- **Safe by default.** Real-money trading, production deploys, and anything destructive are off until someone deliberately turns them on. An emergency stop can be triggered by a file, a setting, or the system itself when it detects trouble.
 - **Everything is on the record.** Every automated yes and no is written to a log that can be added to but never edited, so any decision can be traced back after the fact.
-- **Third-party code is checked.** Every build scans the packages the project depends on, alongside lint, type checks, and tests. Public repos carry a `SECURITY.md`, Dependabot, secret scanning that blocks a bad push, and CodeQL.
+- **Third-party code is checked.** Every build scans the packages the project depends on, alongside lint, type checks, and tests. Public repos include a `SECURITY.md`, Dependabot, secret scanning that blocks bad pushes, and CodeQL.
 - **Measure before something breaks.** Prometheus, Grafana, and Alertmanager on the trading platform; Datadog on production commerce. If it can wake someone up at night, it should already be on a dashboard.
 
 <br />
@@ -86,7 +86,6 @@ The automated trading platform is where these habits were tested hardest, becaus
 
 **AI-assisted engineering**<br />
 <img alt="Claude Code" src="https://img.shields.io/badge/-Claude%20Code-0d1117?style=flat-square&logo=anthropic&logoColor=D97757" /> <img alt="GitHub Copilot" src="https://img.shields.io/badge/-GitHub%20Copilot-0d1117?style=flat-square&logo=githubcopilot&logoColor=FFFFFF" /> <img alt="LLM APIs" src="https://img.shields.io/badge/-LLM%20APIs-0d1117?style=flat-square" />
-<sub>LLM API integration · AI-assisted PR review and quality checks · AI agents that operate inside hard limits the code enforces</sub>
 
 <br />
 
